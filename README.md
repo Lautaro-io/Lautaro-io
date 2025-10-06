@@ -22,15 +22,7 @@ Me gusta pensar que cada app es una oportunidad para aprender algo nuevo o mejor
 
 <h4> Languages </h4>
 <span> 
-  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/aec8f2f7-bf79-4852-b195-b07097637f3e" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/deca65f1-c8fc-4fea-96e4-bc990182caaf" />
-  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/9228904b-dd4c-489b-8cfd-a32cc8fb5aa1" />
-  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/a3301e23-6390-44d4-9b36-fed33cdbc642" />
-  <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/35ebfcb4-553e-4055-ac48-a295fa2c9c47" />
-  <img width="836" height="892" alt="image" src="https://img.icons8.com/?size=100&id=62452&format=png&color=000000" />
+
 
 
 
