@@ -23,7 +23,7 @@ Me gusta pensar que cada app es una oportunidad para aprender algo nuevo o mejor
 <h4> Languages </h4>
 <span> 
 
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootsrap,js,java,kotlin,androidstudio,firebase,ktor,materialui,py,,gradle,figma&theme=light)](https://skillicons.dev)
 
 
 </span> 
